@@ -3,6 +3,8 @@
 
 ## SECTION 1 : PROJECT TITLE
 ## Food and Workout Recommendation Intelligent Self-Learning System
+
+![Meal and Exercise Planner Logo](Image.png?raw=true "Meal and Exercise Planner")
   
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY
