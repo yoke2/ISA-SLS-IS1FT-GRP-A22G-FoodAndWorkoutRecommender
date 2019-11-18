@@ -15,7 +15,7 @@ The proposed solution is an Intelligent Self-Learning System which recommends to
 
 ---
 ## SECTION 3 : TEAM & MEMBERS
-Team Name: Team 6
+Team Name: Team 6  
 Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
 
 ---
@@ -25,7 +25,7 @@ Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
 
 The team has provided notebooks that are ready to run in Google Colab. Please see below for instructions.
 
-1. Navigate to the [Notebooks](/Notebooks) folder
+1. Navigate to the [NotebooksAndData](/NotebooksAndData) folder
 2. Within the folder, there is a File and Notebook Description file listing the each notebook or file, a brief description for that notebook or and a link to open the notebook in Google Colab where applicable
 3. Click on the 'Open in Colab' icon [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] to view the Notebook in Google Colab Playground Mode
 4. To execute the notebook, you need to make a copy of it by clicking on the Copy to Drive icon and subsequently from the menu, click `Runtime > Run all`. Please note that you will need to have a Google Account to execute the notebook
@@ -42,11 +42,11 @@ The notebooks have been validated on Google Colab. For local run on Linux or Win
 1. Run `conda create -n slsca2 python=3.7`
 2. Run `conda activate slsca2`
 3. Navigate to repository folder in commandline
-4. pip install -r requirements.txt
+4. Run `pip install -r requirements.txt`
 5. Open the NotebooksAndData folder in commandline and type `jupyter notebook` to run the notebooks
 
 
 ### Project Report
-The project report can be downloaded from the Report folder.
+The project report can be downloaded from the [Report](/Report) folder.
 
 ---
