@@ -41,7 +41,7 @@ The notebooks have been validated on Google Colab. For local run on Linux or Win
 #### Offline installation and running steps
 1. Run `conda create -n slsca2 python=3.7`
 2. Run `conda activate slsca2`
-3. Navigate to Team6 folder in commandline
+3. Navigate to repository folder in commandline
 4. pip install -r requirements.txt
 5. Open the NotebooksAndData folder in commandline and type `jupyter notebook` to run the notebooks
 
