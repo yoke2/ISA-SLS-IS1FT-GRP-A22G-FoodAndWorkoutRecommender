@@ -1,6 +1,6 @@
 gdown==3.6.4
 ipython==7.8.0
-joblib==0.14.0
+joblib==1.2.0
 jupyter==1.0.0
 matplotlib==3.1.1
 notebook==6.0.1
